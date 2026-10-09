@@ -23,7 +23,6 @@ y el [programa completo](guia-del-curso/programa.md).
 
 - [Plantillas](plantillas/index.md)
 - [Proyecto final](proyecto-final/index.md)
-- [Evaluación](evaluacion/index.md)
 - [Glosario](recursos/glosario.md)
 
 !!! warning "Privacidad"
