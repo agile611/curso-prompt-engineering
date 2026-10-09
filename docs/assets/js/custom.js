@@ -3,65 +3,106 @@
 
   const modules = [
     {
-      path: "00-el-curso",
-      title: "El curso"
+      path: "guia-del-curso",
+      title: "Guía del curso"
     },
     {
-      path: "01-fundamentos",
-      title: "Fundamentos de DevOps y Jenkins"
+      path: "dia-01-fundamentos",
+      title: "Día 1 · Fundamentos"
     },
     {
-      path: "02-pipelines",
-      title: "Pipelines"
+      path: "dia-02-tecnicas",
+      title: "Día 2 · Técnicas y formatos"
     },
     {
-      path: "03-miscelania",
-      title: "Miscelánea"
+      path: "dia-03-evaluacion-y-seguridad",
+      title: "Día 3 · Evaluación y seguridad"
     },
     {
-      path: "04-practicas",
-      title: "Prácticas"
+      path: "dia-04-aplicaciones",
+      title: "Día 4 · Aplicaciones profesionales"
     },
     {
-      path: "04-terraform",
-      title: "Terraform"
+      path: "dia-05-proyecto",
+      title: "Día 5 · Proyecto e integración"
     },
     {
-      path: "05-ansible",
-      title: "Ansible"
+      path: "proyecto-final",
+      title: "Proyecto final"
     },
     {
-      path: "06-referencias",
-      title: "Referencias"
+      path: "plantillas",
+      title: "Plantillas de trabajo"
+    },
+    {
+      path: "evaluacion",
+      title: "Evaluación del curso"
+    },
+    {
+      path: "recursos",
+      title: "Recursos y referencias"
     }
   ];
 
-  const defaultTitle = "Curso DevOps: Introducción a Jenkins";
+  const defaultTitle = "Curso de Prompt Engineering";
 
   function getModuleTitle() {
-    const pathname = window.location.pathname;
+    /*
+     * Comparamos segmentos completos de la URL.
+     * También funciona si la web se publica en una subcarpeta,
+     * como ocurre habitualmente en GitHub Pages.
+     */
+    const pathSegments = window.location.pathname
+      .split("/")
+      .filter(Boolean);
 
     const selectedModule = modules.find(function (module) {
-      return pathname.includes("/" + module.path + "/");
+      return pathSegments.includes(module.path);
     });
 
     return selectedModule ? selectedModule.title : defaultTitle;
   }
 
   function updateSidebarTitle() {
+    /*
+     * Seleccionamos el título de la navegación principal,
+     * no los títulos de sus subsecciones.
+     */
+    const sidebarTitle = document.querySelector(
+      ".md-sidebar--primary .md-nav--primary > .md-nav__title"
+    );
+
+    if (!sidebarTitle) {
+      return;
+    }
+
     const title = getModuleTitle();
 
     /*
-     * En Material for MkDocs, el primer .md-nav__title
-     * dentro de la navegación principal suele ser el título
-     * de la barra lateral.
+     * Actualizamos solo el texto directo del título.
+     * Así conservamos el logotipo, los enlaces y los iconos
+     * que Material pueda incluir dentro del elemento.
      */
-    const sidebarTitle = document.querySelector(
-      ".md-sidebar--primary .md-nav__title"
+    const textNodes = Array.from(sidebarTitle.childNodes).filter(
+      function (node) {
+        return (
+          node.nodeType === Node.TEXT_NODE &&
+          node.textContent.trim() !== ""
+        );
+      }
     );
 
-    if (sidebarTitle) {
-      sidebarTitle.textContent = title;
+    if (textNodes.length > 0) {
+      textNodes[0].textContent = "\n" + title + "\n";
+
+      // Evitamos mantener texto adicional de un título anterior.
+      textNodes.slice(1).forEach(function (node) {
+        node.textContent = "";
+      });
+    } else {
+      sidebarTitle.appendChild(
+        document.createTextNode("\n" + title + "\n")
+      );
     }
   }
 
@@ -69,25 +110,30 @@
     updateSidebarTitle();
 
     /*
-     * Material puede completar o actualizar la navegación
-     * ligeramente después de cargar el contenido.
+     * Material puede actualizar la navegación después
+     * de cargar el contenido.
      */
     window.setTimeout(updateSidebarTitle, 100);
     window.setTimeout(updateSidebarTitle, 500);
   }
 
   if (document.readyState === "loading") {
-    document.addEventListener("DOMContentLoaded", initialize);
+    document.addEventListener("DOMContentLoaded", initialize, {
+      once: true
+    });
   } else {
     initialize();
   }
 
   /*
-   * Material for MkDocs con navegación instantánea.
-   * document$ se emite cada vez que se carga una página nueva.
+   * Compatible con navigation.instant de Material.
+   * document$ se emite cuando se carga una nueva página.
    */
-  if (window.document$ && typeof window.document$.subscribe === "function") {
-    window.document$.subscribe(function () {
+  if (
+    typeof document$ !== "undefined" &&
+    typeof document$.subscribe === "function"
+  ) {
+    document$.subscribe(function () {
       initialize();
     });
   }
