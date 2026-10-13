@@ -12,7 +12,7 @@ La idea central es sencilla: **un modelo puede producir una respuesta convincent
 
 Aprender a reconocer esa diferencia es una habilidad esencial del Prompt Engineering.
 
-!!! info "Alcance de esta documentación"
+!!! info "En alcance de esta documentación"
     La unidad tiene una duración lectiva de una hora.
     Esta página incluye material de consulta y actividades de ampliación.
     Durante la sesión se realizan únicamente las prácticas señaladas como obligatorias.
