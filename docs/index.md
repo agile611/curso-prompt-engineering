@@ -28,6 +28,27 @@ Las referencias docentes describen expectativas, no resultados obtenidos mediant
 
 **El aprendizaje se demuestra mediante instrucciones documentadas, pruebas conservadas y decisiones proporcionadas a la evidencia.**
 
+### 2.5. Prompt Engineering y Prompt Scripting
+
+El curso utiliza dos términos con significados distintos y complementarios.
+
+**Prompt Engineering** comprende el diseño y la evaluación de instrucciones, ejemplos, fuentes, restricciones y contratos de salida para resolver una tarea concreta. Se centra en decidir qué debe pedir el sistema, qué información puede utilizar y cómo reconocer si la respuesta es útil o incorrecta.
+
+**Prompt Scripting** es la organización de prompts mediante plantillas, variables, condiciones, secuencias, validaciones y mecanismos de ejecución para construir procedimientos reutilizables. Puede implementarse de forma manual, con formularios o tablas, con automatizaciones o con código y APIs, según el contexto del proyecto.
+
+La denominación puede variar entre herramientas y organizaciones, pero aquí se mantiene la diferencia operativa:
+
+- El Prompt Engineering define la lógica del trabajo con el lenguaje.
+- El Prompt Scripting define la estructura del procedimiento para repetirlo y documentarlo.
+
+No todo flujo de trabajo que use prompts requiere programación. Una plantilla bien documentada, con variables y validaciones, ya puede considerarse un script operativo si sirve para reproducir una tarea en un contexto determinado.
+
+Un caso común del curso es la preparación de una solicitud de formación:
+
+> “Participarán aproximadamente 12 personas. La modalidad será presencial. La duración será de dos horas. Proponemos el 18 de noviembre de 2026. La fecha todavía no está confirmada. No se indica presupuesto.”
+
+Este ejemplo permite practicar extracción, validación y redacción sin convertir la tarea en una operación de contratación o reserva. Se mantiene el contexto relevante y se excluyen acciones que no forman parte del alcance: confirmar disponibilidad, aprobar presupuestos, establecer precios, reservar servicios o enviar mensajes externos.
+
 !!! info "Antes de empezar"
     Consulta la [preparación del curso](guia-del-curso/preparacion.md).
     Revisa el [programa completo](guia-del-curso/programa.md).

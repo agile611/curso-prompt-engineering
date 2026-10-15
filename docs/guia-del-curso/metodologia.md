@@ -20,6 +20,23 @@ Las propuestas de sesión son adaptables a la duración de cada unidad.
 
 No todas las actividades deben realizarse en una misma jornada.
 
+### 1.6. Diferencia entre Prompt Engineering y Prompt Scripting
+
+El curso diferencia claramente dos dimensiones del trabajo con IA.
+
+**Prompt Engineering** está orientado a la formulación y evaluación de instrucciones para resolver una tarea. Concentra la atención en qué información debe incluirse, qué restricciones son relevantes y qué criterios permiten comprobar si la respuesta es adecuada.
+
+**Prompt Scripting** añade una capa procedural: organiza prompts mediante plantillas, variables, condiciones, secuencias, validaciones, y mecanismos de ejecución para construir un flujo repetible. Un script no tiene por qué ser un programa informático; puede ser una conversación estructurada, una plantilla con campos obligatorios, o un procedimiento de revisión y decisión humano. La clave está en la operatividad y la trazabilidad del proceso.
+
+La distinción es útil porque una misma tarea puede requerir diferentes niveles de rigor:
+
+- Un prompt aislado puede servir para analizar un texto o resumirlo.
+- Un flujo con validaciones puede servir para extraer requisitos, comprobar su coherencia y preparar un borrador final para revisión humana.
+
+En ambos casos, la evaluación es necesaria. Lo que cambia es la complejidad del procedimiento y la cantidad de decisiones que se deben documentar.
+
+Entre las prácticas del curso, se mantiene un caso común que evoluciona a lo largo de la formación. La tarea de preparar una propuesta de evento con datos parciales permite trabajar extracción, validación, redacción y revisión sin sobrepasar el alcance del proyecto.
+
 !!! info "Enfoque del curso"
     El curso alterna explicación, demostración, práctica y revisión.
     No se requiere programación para aplicar el ciclo básico.

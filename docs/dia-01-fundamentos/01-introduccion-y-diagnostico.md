@@ -12,6 +12,17 @@ Un prompt es la entrada que recibe el modelo para orientar su respuesta. Puede c
 
 Diseñarlo implica decidir qué información necesita el modelo, cómo organizarla y qué características debe cumplir el resultado.
 
+### Prompt Engineering y Prompt Scripting como conceptos distintos
+
+El curso distingue dos niveles de trabajo con modelos de lenguaje:
+
+- **Prompt Engineering**: diseño y evaluación de instrucciones, restricciones, ejemplos y contratos de salida para resolver una tarea concreta.
+- **Prompt Scripting**: organización de esos prompts en plantillas, variables, condiciones, secuencias y validaciones para crear procedimientos reutilizables.
+
+Ambas dimensiones son útiles, pero no equivalentes. Una persona puede ser excelente diseñando prompts para un caso concreto sin que necesariamente esté desarrollando un flujo reproducible para varios escenarios. Del mismo modo, un procedimiento estructurado requiere claridad en sus variables y reglas, pero no necesita convertirse automáticamente en un programa complejo.
+
+La recomendación del curso es empezar por la tarea y por el criterio de evaluación; después, si la repetición lo exige, se estructura el procedimiento. Así se mantiene la relación entre diseño, ejecución y revisión sin sobrecomplicar el trabajo inicial.
+
 ### De la intención a una tarea definida
 
 Antes de escribir una instrucción, es necesario comprender qué queremos conseguir.

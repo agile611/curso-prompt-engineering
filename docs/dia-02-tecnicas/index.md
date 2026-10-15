@@ -85,7 +85,18 @@ La mejora comienza revisando el diseño.
 
 **Las técnicas deben servir a una tarea bien delimitada.**
 
-### 1.3. Objetivos de aprendizaje
+### 1.3. Prompt Engineering y Prompt Scripting en práctica
+
+El día 2 no trata el scripting como una simple alternativa al prompt. Se entiende la diferencia como una evolución del trabajo:
+
+- El **Prompt Engineering** permite definir instrucciones, ejemplos y restricciones que cambian el comportamiento del modelo.
+- El **Prompt Scripting** organiza esas instrucciones en un procedimiento reutilizable con variables, condiciones y comprobaciones.
+
+Por ejemplo, una instrucción para extraer requisitos de una solicitud puede funcionar bien en un caso aislado. Si ese mismo proceso se repite para varias solicitudes, conviene convertirlo en una plantilla con campos obligatorios, validaciones estructurales y revisión humana antes de aceptar el resultado.
+
+Esto no implica que el recorrido básico exija programación. Para muchos casos, basta con documentar el flujo, conservar versiones y separar la entrada de la evaluación. El scripting aporta claridad y repetibilidad cuando el proceso comienza a repetirse o a depender de varias decisiones.
+
+### 1.4. Objetivos de aprendizaje
 
 Al finalizar podrás demostrar capacidades mediante evidencias.
 

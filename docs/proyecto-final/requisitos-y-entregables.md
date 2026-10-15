@@ -94,6 +94,31 @@ El equipo debe mantener coherencia entre lo que declara y lo que conserva.
 
 **No atribuyas a una persona o herramienta una comprobación que no realizó.**
 
+### 1.5. Mapa de correspondencia requerido
+
+La trazabilidad es un requisito del proyecto. Cada elemento del curso debe poder relacionarse con un objetivo de aprendizaje, una actividad o una evidencia concreta.
+
+La organización mínima recomendada es la siguiente:
+
+- Contenido original: qué se había propuesto en el curso o en la actividad.
+- Contenido ampliado: qué variación se introdujo y por qué.
+- Objetivo de aprendizaje: qué competencia se pretende desarrollar.
+- Actividad: qué operación concreta se realizó.
+- Evidencia: qué entrada, salida o registro se conserva.
+- Criterio de evaluación: qué asumimos como aceptable y cómo lo comprobamos.
+
+Esto permite distinguir entre:
+
+- Caso de prueba: una entrada de evaluación específica.
+- Ejecución: la interacción realizada con el sistema.
+- Repetición: la reejecución del mismo caso con otra versión.
+- Versión: la variante del prompt o del procedimiento.
+- Referencia: la norma, extracto o criterio que define lo esperado.
+- Resultado observado: la respuesta emitida por el sistema.
+- Decisión humana: la interpretación, validación o bloqueo final.
+
+Sin esa separación, es fácil confundir una respuesta bonita con una respuesta útil o un cambio del prompt con una mejora demostrada.
+
 ---
 
 ## 2. Mapa de entregables y evidencias
@@ -124,6 +149,8 @@ Los identificadores facilitan relacionar documentos y comprobaciones.
 - `REQ-02`: contrato de entradas y salidas.
 - `REQ-03`: documentación de prompts.
 - `REQ-04`: comparación de versiones.
+- `REQ-05`: trazabilidad entre versión, criterio y evidencia.
+- `REQ-06`: revisión humana ejecutable.
 
 **La numeración es orientativa y debe aplicarse consistentemente si se utiliza.**
 
@@ -148,6 +175,30 @@ El inventario debe distinguir presencia documental y revisión.
 - No disponible.
 
 **Un requisito pendiente no debe marcarse como completo para mejorar la apariencia de la entrega.**
+
+### 2.5. Ejemplo de flujo documentado
+
+El siguiente patrón es válido para documentar una tarea completa sin convertirla en una promesa de automatización total:
+
+```text
+Entrada sintética
+    ↓
+Comprobación de variables
+    ↓
+Extracción de requisitos
+    ↓
+Validación estructural
+    ↓
+Revisión de fidelidad
+    ↓
+Preparación de borrador
+    ↓
+Revisión humana
+    ↓
+Uso autorizado dentro del alcance
+```
+
+Este flujo ayuda a distinguir qué pasos forman parte del diseño del prompt, qué pasos son de validación y qué pasos requieren una persona responsable. No implica que todo el proceso esté automatizado, ni que se pueda ejecutar sin intervención humana en contextos con riesgo o documentación sensible.
 
 ---
 
