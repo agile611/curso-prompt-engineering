@@ -24,11 +24,10 @@ No se enviarán respuestas a clientes ni se modificarán sistemas reales.
 
 La documentación incluye un recorrido lectivo, ejemplos ejecutables y ampliaciones opcionales.
 
-!!! info "Base documental y alcance"
-    El contenido del archivo adjunto no pudo recuperarse.
-    Esta página se desarrolla como propuesta original a partir del título y del contexto del curso.
-    La duración y las actividades que se indican son una propuesta de planificación.
-    No se atribuyen al archivo instrucciones que no pudieron consultarse.
+!!! info "Alcance de la unidad"
+  Esta unidad distingue extracción fiel, normalización e interpretación analítica.
+  La duración y las actividades son una propuesta de planificación para esta sesión.
+  Los ejemplos utilizan datos sintéticos y las referencias docentes no representan ejecuciones reales.
 
 !!! warning "Principio fundamental"
     Extraer no significa completar huecos.

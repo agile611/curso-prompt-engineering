@@ -57,10 +57,14 @@ mkdocs gh-deploy
 - `docs/assets/`: imágenes y datos de práctica.
 - `site/`: web compilada; no se versiona.
 
-## Estado inicial
+## Alcance y estado de la documentación
 
-La portada, la configuración, los índices de jornadas y la unidad
-de anatomía del prompt tienen contenido inicial.
+La documentación fuente cubre las cinco jornadas y las guías, plantillas,
+recursos y requisitos del proyecto final de un curso de 30 horas.
+El recorrido básico no requiere programación; las opciones técnicas se
+presentan como ampliaciones cuando corresponden.
 
-Las demás unidades incluyen una estructura editorial pendiente de completar.
-Los datos de ejemplo son sintéticos.
+El contenido incluye actividades, ejemplos sintéticos, criterios de
+evaluación, medidas de privacidad y seguridad, revisión humana y documentación
+de flujos reutilizables. Las referencias docentes no se presentan como
+ejecuciones reales. Consulta cada página para conocer su alcance y sus límites.

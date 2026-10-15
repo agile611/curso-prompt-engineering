@@ -119,6 +119,30 @@ Esto permite distinguir entre:
 
 Sin esa separación, es fácil confundir una respuesta bonita con una respuesta útil o un cambio del prompt con una mejora demostrada.
 
+### 1.6. Mapa de trazabilidad del curso
+
+La siguiente matriz conecta la secuencia de cinco jornadas con las evidencias que alimentan el proyecto. Sirve como mapa docente y como índice para que cada equipo localice qué debe conservar.
+
+| **Jornada y contenido de base consultable** | **Desarrollo visible en el curso** | **Objetivo observable** | **Actividad** | **Evidencia** | **Criterio de revisión** |
+|---|---|---|---|---|---|
+| Día 1: [Fundamentos](../dia-01-fundamentos/index.md) | Anatomía del prompt, tarea delimitada y línea base con datos sintéticos | Formular una tarea con entradas, restricciones y salida | Completar la ficha del caso y ejecutar o analizar un prompt inicial | Ficha, prompt identificado, entrada y respuesta original | La salida conserva valores, aproximaciones, ausencias y límites de autoridad |
+| Día 2: [Técnicas y formatos](../dia-02-tecnicas/index.md) | Instrucciones directas, ejemplos, descomposición, formatos y plantillas | Seleccionar una estrategia según la necesidad y definir su contrato | Comparar dos variantes manteniendo constantes las condiciones pertinentes | Versiones completas, casos comunes y registro comparativo | La comparación usa criterios previos y no atribuye mejoras sin resultados observados |
+| Día 3: [Evaluación y seguridad](../dia-03-evaluacion-y-seguridad/index.md) | Casos de prueba, referencias, regresión, privacidad y prompt injection | Detectar discrepancias y decidir cuándo detener o derivar | Preparar casos normales, incompletos, contradictorios y adversariales | Batería de evaluación; la entrega final debe contener de 8 a 10 casos, además de ejecuciones, referencias e incidencias | Cada conclusión identifica versión, criterio y evidencia; los fallos relevantes no se ocultan |
+| Día 4: [Aplicaciones profesionales](../dia-04-aplicaciones/index.md) | Extracción, análisis, borradores y flujos con validaciones | Integrar componentes con contratos y transiciones explícitas | Recorrer una entrada sintética por el flujo y aplicar sus puertas de control | Plantillas, esquema, diagrama o procedimiento y recorrido documentado | Ninguna etapa confirma, aprueba, reserva o envía fuera de la autoridad definida |
+| Día 5: [Proyecto e integración](../dia-05-proyecto/index.md) | Construcción, pruebas, documentación, revisión y transferencia | Entregar una solución reutilizable dentro de un alcance evaluado | Congelar una candidata, revisar regresiones y presentar la decisión | Expediente final, guía de uso, limitaciones y revisión humana | Se cumplen los mínimos del proyecto y las afirmaciones se limitan a las pruebas realizadas |
+
+Esta matriz describe el contenido consultable en los archivos actuales; no certifica qué texto había en una versión histórica que no esté disponible. Si se necesita comparar con una edición anterior, registra su ruta o identificador y marca **No disponible** cuando no pueda consultarse. No reconstruyas cambios pasados de memoria.
+
+Para revisar una actividad, utiliza esta secuencia:
+
+1. Confirma que el objetivo se puede observar en el entregable.
+2. Comprueba que la actividad produce la evidencia indicada.
+3. Aplica el criterio definido antes de valorar la respuesta.
+4. Registra una discrepancia con su fuente y versión.
+5. Propón el siguiente paso: conservar, corregir, volver a probar o detener.
+
+La retroalimentación docente debe citar una observación concreta, explicar qué requisito afecta y proponer una acción comprobable. Por ejemplo: “La fecha aparece como confirmada, pero la fuente la presenta como propuesta; conserva ambos estados y vuelve a revisar ese caso y la regresión de fechas”.
+
 ---
 
 ## 2. Mapa de entregables y evidencias
