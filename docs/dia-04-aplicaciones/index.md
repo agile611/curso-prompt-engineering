@@ -1,4 +1,4 @@
-# Módulo 5 · Aplicaciones profesionales y prototipo
+# Día 4 · Aplicaciones profesionales y prototipo
 
 Índice ampliado del módulo dedicado a las aplicaciones profesionales del Prompt Engineering y a la integración de varias etapas en un flujo de trabajo. Corresponde a la jornada «Día 4 · Aplicaciones profesionales y prototipo» del documento base y recoge únicamente la estructura de contenidos, sin ejercicios, ejemplos ni instrucciones prácticas.
 
