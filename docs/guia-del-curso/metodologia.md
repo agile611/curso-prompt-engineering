@@ -1521,8 +1521,8 @@ La primera transferencia debe ser pequeña y evaluable.
 
 Los materiales del curso apoyan la continuidad del trabajo.
 
-- [Plantillas](plantillas/index.md).
-- [Proyecto final](proyecto-final/index.md).
+- [Plantillas](../plantillas/index.md).
+- [Proyecto final](../proyecto-final/index.md).
 
 Mantén relacionados prompts, versiones, entradas y respuestas.
 

@@ -125,7 +125,7 @@ Sus páginas complementan los contenidos de las cinco jornadas.
 
 La preparación identifica el entorno mínimo y las funciones opcionales.
 
-- [Preparación del curso](guia-del-curso/preparacion.md).
+- [Preparación del curso](preparacion.md).
 - Familiaridad básica con una interfaz de modelos de lenguaje.
 - Ordenador adecuado para consultar y conservar materiales.
 - Conexión a Internet para servicios en línea.
@@ -138,7 +138,7 @@ La preparación identifica el entorno mínimo y las funciones opcionales.
 
 El programa permite consultar la secuencia y el alcance de la formación.
 
-- [Programa completo](guia-del-curso/programa.md).
+- [Programa completo](programa.md).
 - Organización de jornadas y unidades.
 - Distribución de tiempos lectivos.
 - Relación entre conceptos y aplicaciones.
@@ -151,7 +151,7 @@ El programa permite consultar la secuencia y el alcance de la formación.
 
 La metodología explica cómo se construye aprendizaje mediante iteraciones documentadas.
 
-- [Metodología](guia-del-curso/metodologia.md).
+- [Metodología](metodologia.md).
 - Definición de una tarea comprensible.
 - Construcción de una primera versión.
 - Análisis de una técnica y sus límites.
@@ -164,7 +164,7 @@ La metodología explica cómo se construye aprendizaje mediante iteraciones docu
 
 Los objetivos describen capacidades observables al finalizar el recorrido.
 
-- [Objetivos de aprendizaje](guia-del-curso/objetivos.md).
+- [Objetivos de aprendizaje](objetivos.md).
 - Redacción de instrucciones con contexto y datos.
 - Selección de estrategias de formulación.
 - Control de tono, estructura y formato.
@@ -198,7 +198,7 @@ Su función es conectar la tarea, la instrucción y el resultado esperado.
 
 La página de la jornada organiza las unidades de fundamentos.
 
-- [Día 1: Fundamentos](dia-01-fundamentos/index.md).
+- [Día 1: Fundamentos](../dia-01-fundamentos/index.md).
 - Introducción al propósito del curso.
 - Conceptos esenciales de modelos de lenguaje.
 - Funcionamiento básico de una interfaz.
@@ -271,7 +271,7 @@ Las técnicas se seleccionan por su utilidad para una tarea, no por su complejid
 
 La página de técnicas organiza las estrategias y sus condiciones de aplicación.
 
-- [Día 2: Técnicas y formatos](dia-02-tecnicas/index.md).
+- [Día 2: Técnicas y formatos](../dia-02-tecnicas/index.md).
 - Instrucciones directas.
 - Ejemplos de entrada y salida.
 - Descomposición de tareas.
@@ -344,7 +344,7 @@ La evaluación se vincula con contratos definidos antes de observar las respuest
 
 La página reúne contenidos de comparación, diagnóstico y uso responsable.
 
-- [Día 3: Evaluación y seguridad](dia-03-evaluacion-y-seguridad/index.md).
+- [Día 3: Evaluación y seguridad](../dia-03-evaluacion-y-seguridad/index.md).
 - Requisitos y criterios.
 - Casos y referencias.
 - Métodos de comparación.
@@ -417,7 +417,7 @@ Las aplicaciones mantienen una separación entre generación de propuestas y aut
 
 La página organiza el uso de técnicas en contextos profesionales delimitados.
 
-- [Día 4: Aplicaciones profesionales](dia-04-aplicaciones/index.md).
+- [Día 4: Aplicaciones profesionales](../dia-04-aplicaciones/index.md).
 - Selección de necesidades.
 - Transformación de información.
 - Preparación de documentos.
@@ -490,7 +490,7 @@ El cierre combina construcción, validación, documentación, comunicación y tr
 
 Este bloque dispone de dos horas y organiza la candidata.
 
-- [Construcción final](dia-05-proyecto/01-construccion-final.md).
+- [Construcción final](../dia-05-proyecto/01-construccion-final.md).
 - Identidad del proyecto.
 - Alcance y exclusiones.
 - Inventario de componentes.
@@ -503,7 +503,7 @@ Este bloque dispone de dos horas y organiza la candidata.
 
 Este bloque dispone de una hora y media para validar y tratar fallos prioritarios.
 
-- [Pruebas y correcciones](dia-05-proyecto/02-pruebas-y-correcciones.md).
+- [Pruebas y correcciones](../dia-05-proyecto/02-pruebas-y-correcciones.md).
 - Línea base y entorno conocido.
 - Casos y referencias.
 - Comparaciones por criterio.
@@ -516,7 +516,7 @@ Este bloque dispone de una hora y media para validar y tratar fallos prioritario
 
 Este bloque dispone de media hora para organizar materiales ya preparados.
 
-- [Documentación y entrega](dia-05-proyecto/03-documentacion-y-entrega.md).
+- [Documentación y entrega](../dia-05-proyecto/03-documentacion-y-entrega.md).
 - Documento de apertura.
 - Identidad y manifiesto.
 - Biblioteca y contratos.
@@ -529,7 +529,7 @@ Este bloque dispone de media hora para organizar materiales ya preparados.
 
 Este bloque dispone de una hora y media para comunicar y revisar.
 
-- [Presentaciones y revisión](dia-05-proyecto/04-presentaciones-y-revision.md).
+- [Presentaciones y revisión](../dia-05-proyecto/04-presentaciones-y-revision.md).
 - Necesidad y destinatario.
 - Alcance de la versión.
 - Resultados y evidencias.
@@ -542,7 +542,7 @@ Este bloque dispone de una hora y media para comunicar y revisar.
 
 Este bloque dispone de media hora para definir una propuesta responsable.
 
-- [Transferencia al trabajo](dia-05-proyecto/05-transferencia-al-trabajo.md).
+- [Transferencia al trabajo](../dia-05-proyecto/05-transferencia-al-trabajo.md).
 - Selección de una tarea.
 - Comparación entre contexto formativo y laboral.
 - Datos y herramientas.
@@ -563,7 +563,7 @@ Su disponibilidad efectiva debe comprobarse en la edición del curso utilizada.
 
 Las plantillas aportan estructuras de registro, no resultados de evaluación.
 
-- [Plantillas](plantillas/index.md).
+- [Plantillas](../plantillas/index.md).
 - Ficha del caso de uso.
 - Ficha de prompt.
 - Registro de ejecución.
@@ -636,7 +636,7 @@ Su calidad depende tanto de los componentes como de la evidencia que justifica s
 
 La página del proyecto establece el marco de la entrega.
 
-- [Proyecto final](proyecto-final/index.md).
+- [Proyecto final](../proyecto-final/index.md).
 - Necesidad delimitada.
 - Persona destinataria.
 - Solución útil dentro de un alcance.
@@ -709,7 +709,7 @@ Su consulta ayuda a interpretar instrucciones, resultados y documentación.
 
 El glosario reúne términos utilizados a lo largo del recorrido.
 
-- [Glosario](recursos/glosario.md).
+- [Glosario](../recursos/glosario.md).
 - Modelo de lenguaje.
 - Prompt.
 - Contexto.
@@ -894,14 +894,14 @@ La evidencia puede dejar de cubrir una solución cuando cambian sus condiciones.
 
 Las jornadas deben consultarse junto con la guía y el proyecto.
 
-- [Preparación del curso](guia-del-curso/preparacion.md).
-- [Programa completo](guia-del-curso/programa.md).
-- [Día 1: Fundamentos](dia-01-fundamentos/index.md).
-- [Día 2: Técnicas y formatos](dia-02-tecnicas/index.md).
-- [Día 3: Evaluación y seguridad](dia-03-evaluacion-y-seguridad/index.md).
-- [Día 4: Aplicaciones profesionales](dia-04-aplicaciones/index.md).
-- [Día 5: Proyecto e integración](dia-05-proyecto/index.md).
-- [Proyecto final](proyecto-final/index.md).
+- [Preparación del curso](preparacion.md).
+- [Programa completo](programa.md).
+- [Día 1: Fundamentos](../dia-01-fundamentos/index.md).
+- [Día 2: Técnicas y formatos](../dia-02-tecnicas/index.md).
+- [Día 3: Evaluación y seguridad](../dia-03-evaluacion-y-seguridad/index.md).
+- [Día 4: Aplicaciones profesionales](../dia-04-aplicaciones/index.md).
+- [Día 5: Proyecto e integración](../dia-05-proyecto/index.md).
+- [Proyecto final](../proyecto-final/index.md).
 
 ### 12.5. Síntesis del recorrido
 

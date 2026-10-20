@@ -981,8 +981,8 @@ Los materiales relacionados apoyan el inicio y la continuidad del curso.
 
 - [Metodología](metodologia.md).
 - [Objetivos de aprendizaje](objetivos.md).
-- [Plantillas](plantillas/index.md).
-- [Proyecto final](proyecto-final/index.md).
+- [Plantillas](../plantillas/index.md).
+- [Proyecto final](../proyecto-final/index.md).
 - Ruta prevista de datos: `assets/datasets/`.
 
 Revisa la disponibilidad efectiva de cada recurso en la edición utilizada.

@@ -1059,8 +1059,8 @@ El resultado del curso no autoriza tratamiento de información real.
 Los materiales del curso apoyan el desarrollo progresivo de las capacidades.
 
 - [Metodología](metodologia.md).
-- [Plantillas](plantillas/index.md).
-- [Proyecto final](proyecto-final/index.md).
+- [Plantillas](../plantillas/index.md).
+- [Proyecto final](../proyecto-final/index.md).
 - Formulación: tarea, contexto, datos y salida.
 - Evaluación: pruebas, comparación y decisiones.
 - Continuidad: seguridad, documentación y transferencia.
