@@ -1,9 +1,5 @@
-site_name: Curso de Prompt Engineering
-site_description: Curso práctico de Prompt Engineering en 5 días y 30 horas
-site_author: Equipo docente
-
-site_name: Curso de Prompt Engineering
-site_description: Curso práctico de Prompt Engineering en 5 días y 30 horas
+site_name: "Curso de Prompt Engineering"
+site_description: "Curso práctico de Prompt Engineering en 5 días y 30 horas"
 site_author: "Guillem Hernández Sola"
 site_url: "https://docs.agile611.com/curso-prompt-engineering/"
 
@@ -99,13 +95,15 @@ extra_javascript:
   - assets/js/custom.js
 
 nav:
-  - Inicio: index.md
+  - "Inicio": index.md
+
   - "Guía del curso":
       - "Programa y calendario": guia-del-curso/programa.md
       - "Objetivos de aprendizaje": guia-del-curso/objetivos.md
       - "Metodología": guia-del-curso/metodologia.md
       - "Preparación y herramientas": guia-del-curso/preparacion.md
-  - Temario:
+
+  - "Temario":
       - "Día 1 · Fundamentos":
           - dia-01-fundamentos/index.md
           - "Introducción y diagnóstico": dia-01-fundamentos/01-introduccion-y-diagnostico.md
@@ -113,6 +111,7 @@ nav:
           - "Anatomía del prompt": dia-01-fundamentos/03-anatomia-del-prompt.md
           - "Taller de prompts": dia-01-fundamentos/04-taller-de-prompts.md
           - "Caso de uso y entregable": dia-01-fundamentos/05-caso-de-uso-y-entregable.md
+
       - "Día 2 · Técnicas y formatos":
           - dia-02-tecnicas/index.md
           - "Zero-shot y few-shot": dia-02-tecnicas/01-zero-shot-y-few-shot.md
@@ -120,6 +119,7 @@ nav:
           - "Roles, tono y formatos": dia-02-tecnicas/03-roles-tono-y-formatos.md
           - "Laboratorio comparativo": dia-02-tecnicas/04-laboratorio-comparativo.md
           - "Biblioteca de prompts": dia-02-tecnicas/05-biblioteca-de-prompts.md
+
       - "Día 3 · Evaluación y seguridad":
           - dia-03-evaluacion-y-seguridad/index.md
           - "Diseño de pruebas": dia-03-evaluacion-y-seguridad/01-diseno-de-pruebas.md
@@ -127,6 +127,7 @@ nav:
           - "Fiabilidad, sesgos y privacidad": dia-03-evaluacion-y-seguridad/03-fiabilidad-sesgos-y-privacidad.md
           - "Seguridad y prompt injection": dia-03-evaluacion-y-seguridad/04-seguridad-y-prompt-injection.md
           - "Laboratorio de evaluación": dia-03-evaluacion-y-seguridad/05-laboratorio-de-evaluacion.md
+
       - "Día 4 · Aplicaciones profesionales":
           - dia-04-aplicaciones/index.md
           - "Comunicación y creatividad": dia-04-aplicaciones/01-comunicacion-y-creatividad.md
@@ -134,6 +135,7 @@ nav:
           - "Código y asistencia técnica": dia-04-aplicaciones/03-codigo-y-asistencia-tecnica.md
           - "Diseño de flujos": dia-04-aplicaciones/04-diseno-de-flujos.md
           - "Desarrollo del prototipo": dia-04-aplicaciones/05-desarrollo-del-prototipo.md
+
       - "Día 5 · Proyecto e integración":
           - dia-05-proyecto/index.md
           - "Construcción final": dia-05-proyecto/01-construccion-final.md
@@ -141,11 +143,13 @@ nav:
           - "Documentación y entrega": dia-05-proyecto/03-documentacion-y-entrega.md
           - "Presentaciones y revisión": dia-05-proyecto/04-presentaciones-y-revision.md
           - "Transferencia al trabajo": dia-05-proyecto/05-transferencia-al-trabajo.md
+
   - "Proyecto final":
       - proyecto-final/index.md
       - "Casos de uso": proyecto-final/casos-de-uso.md
       - "Requisitos y entregables": proyecto-final/requisitos-y-entregables.md
       - "Guía de presentación": proyecto-final/guia-de-presentacion.md
+
   - "Plantillas":
       - plantillas/index.md
       - "Ficha de prompt": plantillas/ficha-de-prompt.md
@@ -154,6 +158,7 @@ nav:
       - "Matriz de evaluación": plantillas/matriz-de-evaluacion.md
       - "Registro de versiones": plantillas/registro-de-versiones.md
       - "Checklist de seguridad": plantillas/checklist-de-seguridad.md
+
   - "Recursos":
       - "Glosario": recursos/glosario.md
       - "Herramientas": recursos/herramientas.md
