@@ -36,7 +36,7 @@ La unidad integra lo trabajado durante el primer día.
 
 | Elemento | Descripción |
 |---|---|
-| Jornada | Día 1 · Fundamentos |
+| Jornada | 1 · Fundamentos |
 | Unidad | Caso de uso y entregable |
 | Duración | 0,5 horas |
 | Modalidad | Explicación, demostración y práctica |
@@ -1269,7 +1269,7 @@ Registra cambios de alcance y evaluación.
 
 | Versión | Cambio | Motivo |
 |---|---|---|
-| 0.1 | Definición inicial | Cierre del día 1 |
+| 0.1 | Definición inicial | Cierre del 1 |
 | 0.2 | Ajuste de formato | Necesidad del destinatario |
 | 0.3 | Nuevo caso de prueba | Evaluar información ausente |
 
@@ -1390,11 +1390,11 @@ Cada jornada añadirá una perspectiva.
 
 | Jornada | Evolución del caso |
 |---|---|
-| Día 1 | Definición y línea base |
-| Día 2 | Técnicas y formatos |
-| Día 3 | Evaluación y seguridad |
-| Día 4 | Adaptación a una aplicación |
-| Día 5 | Consolidación del proyecto |
+| 1 | Definición y línea base |
+| 2 | Técnicas y formatos |
+| 3 | Evaluación y seguridad |
+| 4 | Adaptación a una aplicación |
+| 5 | Consolidación del proyecto |
 
 El caso puede reformularse si deja de ser viable.
 

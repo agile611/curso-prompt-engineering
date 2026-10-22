@@ -1,4 +1,4 @@
-# Día 2 · Técnicas de prompting y control de resultados
+# 2 · Técnicas de prompting y control de resultados
 
 La segunda jornada del curso desarrolla técnicas para orientar las respuestas de un modelo de lenguaje y comprobar si cumplen una tarea definida.
 
@@ -28,7 +28,7 @@ Las unidades enlazadas desarrollan los contenidos específicos.
 
 ## 1. Orientación y fundamentos de la jornada
 
-Esta sección conecta el trabajo del día 1 con las técnicas del día 2.
+Esta sección conecta el trabajo del 1 con las técnicas del 2.
 
 La prioridad sigue siendo definir tareas, aportar información pertinente y comprobar resultados.
 
@@ -40,7 +40,7 @@ No requiere programación para completar las actividades obligatorias.
 
 | Elemento | Descripción |
 |---|---|
-| Jornada | Día 2 · Técnicas y control |
+| Jornada | 2 · Técnicas y control |
 | Duración lectiva | 6 horas |
 | Nivel | Introducción aplicada |
 | Modalidad | Explicación, demostración y práctica |
@@ -58,9 +58,9 @@ Las ampliaciones técnicas son opcionales.
 
 **La metodología no depende de una marca concreta.**
 
-### 1.2. Relación con el día 1
+### 1.2. Relación con el 1
 
-El día 1 estableció una anatomía básica del prompt.
+El 1 estableció una anatomía básica del prompt.
 
 Esa estructura sigue siendo relevante.
 
@@ -73,7 +73,7 @@ Antes de seleccionar una técnica, identifica:
 - La salida.
 - Los criterios de aceptación.
 
-Las técnicas del día 2 complementan esas decisiones.
+Las técnicas del 2 complementan esas decisiones.
 
 No sustituyen una definición insuficiente del trabajo.
 
@@ -87,7 +87,7 @@ La mejora comienza revisando el diseño.
 
 ### 1.3. Prompt Engineering y Prompt Scripting en práctica
 
-El día 2 no trata el scripting como una simple alternativa al prompt. Se entiende la diferencia como una evolución del trabajo:
+El 2 no trata el scripting como una simple alternativa al prompt. Se entiende la diferencia como una evolución del trabajo:
 
 - El **Prompt Engineering** permite definir instrucciones, ejemplos y restricciones que cambian el comportamiento del modelo.
 - El **Prompt Scripting** organiza esas instrucciones en un procedimiento reutilizable con variables, condiciones y comprobaciones.
@@ -176,7 +176,7 @@ Las conclusiones deben reconocerlo.
 
 ### 1.6. Conocimientos previos
 
-Conviene recuperar los conceptos del día anterior.
+Conviene recuperar los conceptos del anterior.
 
 Debes poder distinguir:
 
@@ -1182,7 +1182,7 @@ No se indica la fecha de emisión del documento.
 Participarán 16 personas.
 ```
 
-No conviertas la fecha usando automáticamente el día actual.
+No conviertas la fecha usando automáticamente el actual.
 
 Falta la referencia del documento.
 
@@ -1670,11 +1670,11 @@ Conserva límites y pendientes.
 
 **La documentación debe facilitar revisión y continuidad.**
 
-### 4.16. Paso al día 3
+### 4.16. Paso al 3
 
 La siguiente jornada profundiza en evaluación y seguridad.
 
-La biblioteca del día 2 será una base.
+La biblioteca del 2 será una base.
 
 Podrás ampliar:
 

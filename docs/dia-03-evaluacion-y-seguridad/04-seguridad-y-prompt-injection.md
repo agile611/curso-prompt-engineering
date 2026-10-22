@@ -43,7 +43,7 @@ La unidad pertenece a la jornada de evaluación y seguridad.
 
 | Elemento | Descripción |
 |---|---|
-| Jornada | Día 3 · Evaluación y seguridad |
+| Jornada | 3 · Evaluación y seguridad |
 | Unidad | Seguridad y prompt injection |
 | Duración lectiva | 1 hora |
 | Modalidad | Explicación, demostración y práctica |
@@ -51,7 +51,7 @@ La unidad pertenece a la jornada de evaluación y seguridad.
 
 Se requiere conocer los fundamentos de diseño de pruebas.
 
-Puede utilizarse una entrada de la biblioteca del día 2.
+Puede utilizarse una entrada de la biblioteca del 2.
 
 No se requiere programación.
 

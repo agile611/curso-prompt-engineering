@@ -16,7 +16,7 @@ Las referencias docentes expresan expectativas, no resultados obtenidos mediante
 
 **La presentación debe ser clara para quien escucha y verificable para quien revisa.**
 
-El bloque del día 5 está pensado para aproximadamente seis equipos.
+El bloque del 5 está pensado para aproximadamente seis equipos.
 
 La duración, el formato y el sistema de preguntas deben ajustarse al tiempo disponible y al tamaño real del grupo.
 
@@ -824,7 +824,7 @@ La corrección debe apoyarse en evidencia real, no solo en lenguaje prudente.
 
 ---
 
-## 14. Organización del bloque del día 5
+## 14. Organización del bloque del 5
 
 El material base contempla aproximadamente seis equipos.
 

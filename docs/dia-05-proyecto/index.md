@@ -1,4 +1,4 @@
-# Día 5 · Proyecto final, validación y presentación
+# 5 · Proyecto final, validación y presentación
 
 Índice ampliado del módulo dedicado al cierre del proyecto de Prompt Engineering, la validación de sus resultados, la documentación de la entrega y la presentación de la solución. Esta página organiza los contenidos de la jornada; no incluye ejercicios, demostraciones ni instrucciones prácticas.
 
@@ -9,7 +9,7 @@ El módulo reúne los componentes necesarios para cerrar una solución documenta
 ### 1.1. Identificación del módulo
 
 - Denominación: Proyecto final, validación y presentación.
-- Jornada de referencia: Día 5.
+- Jornada de referencia: 5.
 - Duración lectiva total: 6 horas.
 - Organización: cinco unidades.
 - Punto de partida: prototipo desarrollado.

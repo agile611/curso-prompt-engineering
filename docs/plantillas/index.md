@@ -791,7 +791,7 @@ Las plantillas acompañan las cinco jornadas sin convertirse en actividades inde
 
 Su relevancia cambia según la etapa del aprendizaje.
 
-### 12.1. Día 1 · Fundamentos
+### 12.1. 1 · Fundamentos
 
 La primera jornada establece necesidad, tarea y línea base.
 
@@ -801,9 +801,9 @@ La primera jornada establece necesidad, tarea y línea base.
 - Criterios preliminares.
 - Registro de la versión inicial.
 
-Consulta [Día 1: Fundamentos](../dia-01-fundamentos/index.md).
+Consulta [1: Fundamentos](../dia-01-fundamentos/index.md).
 
-### 12.2. Día 2 · Técnicas y formatos
+### 12.2. 2 · Técnicas y formatos
 
 La segunda jornada amplía estrategias y contratos.
 
@@ -813,9 +813,9 @@ La segunda jornada amplía estrategias y contratos.
 - Biblioteca inicial.
 - Historial de modificaciones.
 
-Consulta [Día 2: Técnicas y formatos](../dia-02-tecnicas/index.md).
+Consulta [2: Técnicas y formatos](../dia-02-tecnicas/index.md).
 
-### 12.3. Día 3 · Evaluación y seguridad
+### 12.3. 3 · Evaluación y seguridad
 
 La tercera jornada conecta comprobación y protección.
 
@@ -825,9 +825,9 @@ La tercera jornada conecta comprobación y protección.
 - Checklist.
 - Evidencias de comparación.
 
-Consulta [Día 3: Evaluación y seguridad](../dia-03-evaluacion-y-seguridad/index.md).
+Consulta [3: Evaluación y seguridad](../dia-03-evaluacion-y-seguridad/index.md).
 
-### 12.4. Día 4 · Aplicaciones profesionales
+### 12.4. 4 · Aplicaciones profesionales
 
 La cuarta jornada organiza componentes para tareas delimitadas.
 
@@ -837,9 +837,9 @@ La cuarta jornada organiza componentes para tareas delimitadas.
 - Historial.
 - Condiciones de revisión.
 
-Consulta [Día 4: Aplicaciones profesionales](../dia-04-aplicaciones/index.md).
+Consulta [4: Aplicaciones profesionales](../dia-04-aplicaciones/index.md).
 
-### 12.5. Día 5 · Proyecto e integración
+### 12.5. 5 · Proyecto e integración
 
 La quinta jornada consolida entrega, comunicación y transferencia.
 
@@ -849,7 +849,7 @@ La quinta jornada consolida entrega, comunicación y transferencia.
 - Restricciones.
 - Decisión final.
 
-Consulta [Día 5: Proyecto e integración](../dia-05-proyecto/index.md).
+Consulta [5: Proyecto e integración](../dia-05-proyecto/index.md).
 
 ---
 

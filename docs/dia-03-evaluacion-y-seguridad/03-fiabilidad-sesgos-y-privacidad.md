@@ -44,7 +44,7 @@ Esta unidad pertenece a la jornada de evaluación y seguridad.
 
 | Elemento | Descripción |
 |---|---|
-| Jornada | Día 3 · Evaluación y seguridad |
+| Jornada | 3 · Evaluación y seguridad |
 | Unidad | Fiabilidad, sesgos y privacidad |
 | Duración lectiva | 1 hora |
 | Modalidad | Explicación, demostración y práctica |

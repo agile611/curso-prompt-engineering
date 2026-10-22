@@ -36,11 +36,11 @@ La calidad del cambio depende de su justificación y de la evidencia que lo acom
 
 ### 1.1. Ficha de la unidad
 
-La unidad pertenece al tercer día del curso.
+La unidad pertenece al tercer del curso.
 
 | Elemento | Descripción |
 |---|---|
-| Jornada | Día 3 · Evaluación y seguridad |
+| Jornada | 3 · Evaluación y seguridad |
 | Unidad | Refinamiento y versionado |
 | Duración lectiva | 1 hora |
 | Modalidad | Explicación, demostración y práctica |

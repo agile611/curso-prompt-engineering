@@ -39,11 +39,11 @@ El diseño debe quedar claro antes de ejecutar la batería.
 
 ### 1.1. Ficha de la unidad
 
-El laboratorio pertenece al tercer día del curso.
+El laboratorio pertenece al tercer del curso.
 
 | Elemento | Descripción |
 |---|---|
-| Jornada | Día 3 · Evaluación y seguridad |
+| Jornada | 3 · Evaluación y seguridad |
 | Unidad | Laboratorio de evaluación |
 | Duración lectiva | 1,5 horas |
 | Modalidad | Explicación, demostración y práctica |

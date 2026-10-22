@@ -34,7 +34,7 @@ Esta unidad pertenece a la primera jornada del curso.
 
 | Elemento | Descripción |
 |---|---|
-| Jornada | Día 1 · Fundamentos |
+| Jornada | 1 · Fundamentos |
 | Duración | 1,5 horas |
 | Modalidad | Explicación, demostración y práctica |
 | Conocimientos previos | Funcionamiento y limitaciones de los LLMs |
@@ -966,7 +966,7 @@ Necesitamos una sesión introductoria para 12 personas.
 La duración prevista es de dos horas.
 
 Nos gustaría realizarla durante la semana del 16 de noviembre.
-Todavía no hemos confirmado el día ni el aula.
+Todavía no hemos confirmado el ni el aula.
 
 Marta coordinará la propuesta.
 Por favor, enviad una primera versión antes del 6 de noviembre.
@@ -995,7 +995,7 @@ Devuelve una tabla con:
 - Participantes.
 - Duración prevista.
 - Periodo propuesto.
-- Día confirmado.
+- confirmado.
 - Aula confirmada.
 - Persona coordinadora.
 - Fecha límite de primera propuesta.
@@ -1022,7 +1022,7 @@ La tabla debería conservar estas distinciones.
 | Participantes | 12 |
 | Duración prevista | Dos horas |
 | Periodo propuesto | Semana del 16 de noviembre |
-| Día confirmado | No indicado |
+| confirmado | No indicado |
 | Aula confirmada | No indicado |
 
 Marta aparece como coordinadora de la propuesta.
@@ -1031,7 +1031,7 @@ El 6 de noviembre corresponde a la primera versión.
 
 No corresponde necesariamente a la sesión.
 
-Si el modelo asigna un día concreto, identifica la inferencia.
+Si el modelo asigna un concreto, identifica la inferencia.
 
 Si añade un aula, identifica la invención.
 
@@ -1052,7 +1052,7 @@ Redacta una respuesta breve al correo.
 
 Confirma que hemos recibido la solicitud.
 Repite los requisitos principales para validarlos.
-Indica que el día y el aula siguen pendientes.
+Indica que el y el aula siguen pendientes.
 
 No prometas disponibilidad.
 No confirmes precios ni personas docentes.

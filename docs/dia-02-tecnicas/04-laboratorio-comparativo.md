@@ -8,7 +8,7 @@ Una comparación útil necesita una tarea común, criterios definidos y evidenci
 
 También necesita reconocer qué cambió y qué permaneció constante.
 
-Este laboratorio integra las técnicas trabajadas durante el segundo día del curso.
+Este laboratorio integra las técnicas trabajadas durante el segundo del curso.
 
 Utilizarás zero-shot y few-shot para resolver una tarea de extracción de requisitos.
 
@@ -36,19 +36,19 @@ La calidad del laboratorio depende tanto de la revisión como de la ejecución.
 
 ### 1.1. Ficha de la unidad
 
-El laboratorio pertenece al segundo día del curso.
+El laboratorio pertenece al segundo del curso.
 
 | Elemento | Descripción |
 |---|---|
-| Jornada | Día 2 · Técnicas y formatos |
+| Jornada | 2 · Técnicas y formatos |
 | Unidad | Laboratorio comparativo |
 | Duración lectiva | 2 horas |
 | Modalidad | Explicación, demostración y práctica |
 | Resultado | Comparación documentada y decisión de diseño |
 
-Se requiere conocer los fundamentos del día 1.
+Se requiere conocer los fundamentos del 1.
 
-También se requiere haber revisado las unidades anteriores del día 2.
+También se requiere haber revisado las unidades anteriores del 2.
 
 No es necesario programar.
 

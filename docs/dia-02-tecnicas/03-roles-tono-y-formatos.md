@@ -36,11 +36,11 @@ La finalidad no es decorar un prompt, sino comunicar decisiones que afectan al r
 
 ### 1.1. Ficha de la unidad
 
-La unidad pertenece al segundo día del curso.
+La unidad pertenece al segundo del curso.
 
 | Elemento | Descripción |
 |---|---|
-| Jornada | Día 2 · Técnicas y formatos |
+| Jornada | 2 · Técnicas y formatos |
 | Unidad | Roles, tono y formatos |
 | Duración lectiva | 1 hora |
 | Modalidad | Explicación, demostración y práctica |

@@ -8,7 +8,7 @@ No consiste únicamente en producir una respuesta satisfactoria.
 
 Consiste en presentar un conjunto de materiales que permita comprender el sistema, revisar sus resultados y reconocer cuándo no debe utilizarse.
 
-El proyecto se inicia el primer día y se completa el quinto.
+El proyecto se inicia el primer y se completa el quinto.
 
 Este recorrido permite desarrollar progresivamente la necesidad, las instrucciones, las pruebas, los controles y la documentación.
 
@@ -235,9 +235,9 @@ Un inventario breve permite reconocer lo disponible y lo que falta.
 
 ---
 
-## 5. Día 1 · Definición e inicio
+## 5. 1 · Definición e inicio
 
-El primer día establece la necesidad, el destinatario y una línea base que pueda evaluarse posteriormente.
+El primer establece la necesidad, el destinatario y una línea base que pueda evaluarse posteriormente.
 
 ### 5.1. Selección del problema
 
@@ -279,15 +279,15 @@ El cierre debe dejar una propuesta que pueda retomarse sin reconstrucción oral.
 - Ficha inicial del caso.
 - Primera versión del prompt.
 - Una entrada y su referencia.
-- Lista de pendientes para el día siguiente.
+- Lista de pendientes para el siguiente.
 
-**El primer día inicia el proyecto; no necesita producir una candidata validada.**
+**El primer inicia el proyecto; no necesita producir una candidata validada.**
 
 ---
 
-## 6. Día 2 · Técnicas, contratos y versiones
+## 6. 2 · Técnicas, contratos y versiones
 
-El segundo día desarrolla instrucciones más precisas y prepara una comparación con sentido.
+El segundo desarrolla instrucciones más precisas y prepara una comparación con sentido.
 
 ### 6.1. Revisión de la tarea
 
@@ -335,9 +335,9 @@ El equipo debe conservar identidad y compatibilidad entre materiales.
 
 ---
 
-## 7. Día 3 · Evaluación y seguridad
+## 7. 3 · Evaluación y seguridad
 
-El tercer día concentra la comparación, las pruebas y la revisión de condiciones de protección.
+El tercer concentra la comparación, las pruebas y la revisión de condiciones de protección.
 
 ### 7.1. Preparación de la batería
 
@@ -385,9 +385,9 @@ El equipo debe poder explicar resultados, discrepancias y límites.
 
 ---
 
-## 8. Día 4 · Integración y reutilización
+## 8. 4 · Integración y reutilización
 
-El cuarto día conecta componentes y transforma la propuesta en un conjunto consultable y operable.
+El cuarto conecta componentes y transforma la propuesta en un conjunto consultable y operable.
 
 ### 8.1. Integración del flujo
 
@@ -435,9 +435,9 @@ El conjunto debe reflejar la solución que realmente se ha integrado.
 
 ---
 
-## 9. Día 5 · Cierre, presentación y entrega
+## 9. 5 · Cierre, presentación y entrega
 
-El quinto día consolida la candidata, verifica el expediente y comunica una decisión proporcionada.
+El quinto consolida la candidata, verifica el expediente y comunica una decisión proporcionada.
 
 ### 9.1. Revisión de integridad
 
@@ -863,7 +863,7 @@ La audiencia debe saber qué tipo de material está observando.
 
 ### 17.3. Organización del grupo
 
-El bloque del día 5 está pensado para aproximadamente seis equipos.
+El bloque del 5 está pensado para aproximadamente seis equipos.
 
 - Ajustar duración por equipo.
 - Prever preguntas.

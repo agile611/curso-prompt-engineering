@@ -8,23 +8,23 @@
     },
     {
       path: "dia-01-fundamentos",
-      title: "Día 1 · Fundamentos"
+      title: "1 · Fundamentos"
     },
     {
       path: "dia-02-tecnicas",
-      title: "Día 2 · Técnicas y formatos"
+      title: "2 · Técnicas y formatos"
     },
     {
       path: "dia-03-evaluacion-y-seguridad",
-      title: "Día 3 · Evaluación y seguridad"
+      title: "3 · Evaluación y seguridad"
     },
     {
       path: "dia-04-aplicaciones",
-      title: "Día 4 · Aplicaciones profesionales"
+      title: "4 · Aplicaciones profesionales"
     },
     {
       path: "dia-05-proyecto",
-      title: "Día 5 · Proyecto e integración"
+      title: "5 · Proyecto e integración"
     },
     {
       path: "proyecto-final",

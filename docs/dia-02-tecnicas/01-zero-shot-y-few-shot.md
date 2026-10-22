@@ -30,11 +30,11 @@ Esta sección presenta los conceptos necesarios para distinguir ambos enfoques y
 
 ### 1.1. Ficha de la unidad
 
-La unidad pertenece al segundo día del curso.
+La unidad pertenece al segundo del curso.
 
 | Elemento | Descripción |
 |---|---|
-| Jornada | Día 2 · Técnicas y formatos |
+| Jornada | 2 · Técnicas y formatos |
 | Unidad | Zero-shot y few-shot |
 | Duración | 1,5 horas |
 | Modalidad | Explicación, demostración y práctica |

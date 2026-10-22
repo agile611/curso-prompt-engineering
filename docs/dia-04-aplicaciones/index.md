@@ -1,6 +1,6 @@
-# Día 4 · Aplicaciones profesionales y prototipo
+# 4 · Aplicaciones profesionales y prototipo
 
-Índice ampliado del módulo dedicado a las aplicaciones profesionales del Prompt Engineering y a la integración de varias etapas en un flujo de trabajo. Corresponde a la jornada «Día 4 · Aplicaciones profesionales y prototipo» del documento base y recoge únicamente la estructura de contenidos, sin ejercicios, ejemplos ni instrucciones prácticas.
+Índice ampliado del módulo dedicado a las aplicaciones profesionales del Prompt Engineering y a la integración de varias etapas en un flujo de trabajo. Corresponde a la jornada «4 · Aplicaciones profesionales y prototipo» del documento base y recoge únicamente la estructura de contenidos, sin ejercicios, ejemplos ni instrucciones prácticas.
 
 ## 1. Presentación y organización del módulo
 
@@ -8,7 +8,7 @@
 
 - Denominación: Aplicaciones profesionales y prototipo.
 - Número del módulo: 5.
-- Jornada de referencia: Día 4.
+- Jornada de referencia: 4.
 - Duración lectiva total: 6 horas.
 - Organización temática: cinco bloques.
 - Ámbito: aplicaciones profesionales de modelos de lenguaje.

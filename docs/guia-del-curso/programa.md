@@ -65,11 +65,11 @@ El curso desarrolla una forma de trabajo aplicable a tareas profesionales delimi
 
 La organización general distribuye treinta horas entre cinco jornadas.
 
-- Día 1: fundamentos del trabajo con modelos.
-- Día 2: técnicas y formatos.
-- Día 3: evaluación y seguridad.
-- Día 4: aplicaciones profesionales.
-- Día 5: proyecto e integración.
+- 1: fundamentos del trabajo con modelos.
+- 2: técnicas y formatos.
+- 3: evaluación y seguridad.
+- 4: aplicaciones profesionales.
+- 5: proyecto e integración.
 - Duración lectiva de referencia: seis horas por jornada.
 - Pausas: diferenciadas del tiempo lectivo.
 - Ampliaciones: fuera del recorrido obligatorio cuando así se indique.
@@ -188,7 +188,7 @@ La preparación documental evita depender exclusivamente del historial de conver
 
 ---
 
-## 3. Día 1 · Fundamentos
+## 3. 1 · Fundamentos
 
 La primera jornada establece un lenguaje común y una forma inicial de trabajar con modelos.
 
@@ -198,14 +198,14 @@ Su función es conectar la tarea, la instrucción y el resultado esperado.
 
 La página de la jornada organiza las unidades de fundamentos.
 
-- [Día 1: Fundamentos](../dia-01-fundamentos/index.md).
+- [1: Fundamentos](../dia-01-fundamentos/index.md).
 - Introducción al propósito del curso.
 - Conceptos esenciales de modelos de lenguaje.
 - Funcionamiento básico de una interfaz.
 - Definición de tareas delimitadas.
 - Elementos de una instrucción.
 - Primera organización de evidencias.
-- Relación con las técnicas del día siguiente.
+- Relación con las técnicas del siguiente.
 
 ### 3.2. Modelos de lenguaje y resultados generados
 
@@ -261,7 +261,7 @@ La jornada introduce registros suficientes para establecer una línea base.
 
 ---
 
-## 4. Día 2 · Técnicas y formatos
+## 4. 2 · Técnicas y formatos
 
 La segunda jornada amplía las estrategias de formulación y el control de resultados.
 
@@ -271,7 +271,7 @@ Las técnicas se seleccionan por su utilidad para una tarea, no por su complejid
 
 La página de técnicas organiza las estrategias y sus condiciones de aplicación.
 
-- [Día 2: Técnicas y formatos](../dia-02-tecnicas/index.md).
+- [2: Técnicas y formatos](../dia-02-tecnicas/index.md).
 - Instrucciones directas.
 - Ejemplos de entrada y salida.
 - Descomposición de tareas.
@@ -334,7 +334,7 @@ Las plantillas facilitan consistencia cuando sus variables están definidas.
 
 ---
 
-## 5. Día 3 · Evaluación y seguridad
+## 5. 3 · Evaluación y seguridad
 
 La tercera jornada desarrolla métodos para comprobar resultados y reconocer riesgos.
 
@@ -344,7 +344,7 @@ La evaluación se vincula con contratos definidos antes de observar las respuest
 
 La página reúne contenidos de comparación, diagnóstico y uso responsable.
 
-- [Día 3: Evaluación y seguridad](../dia-03-evaluacion-y-seguridad/index.md).
+- [3: Evaluación y seguridad](../dia-03-evaluacion-y-seguridad/index.md).
 - Requisitos y criterios.
 - Casos y referencias.
 - Métodos de comparación.
@@ -407,7 +407,7 @@ Los controles deben abarcar datos, herramientas y acciones.
 
 ---
 
-## 6. Día 4 · Aplicaciones profesionales
+## 6. 4 · Aplicaciones profesionales
 
 La cuarta jornada integra componentes en soluciones orientadas a necesidades laborales.
 
@@ -417,7 +417,7 @@ Las aplicaciones mantienen una separación entre generación de propuestas y aut
 
 La página organiza el uso de técnicas en contextos profesionales delimitados.
 
-- [Día 4: Aplicaciones profesionales](../dia-04-aplicaciones/index.md).
+- [4: Aplicaciones profesionales](../dia-04-aplicaciones/index.md).
 - Selección de necesidades.
 - Transformación de información.
 - Preparación de documentos.
@@ -480,7 +480,7 @@ La jornada conecta los componentes con una candidata evaluable.
 
 ---
 
-## 7. Día 5 · Proyecto e integración
+## 7. 5 · Proyecto e integración
 
 La quinta jornada consolida la solución y justifica sus resultados.
 
@@ -896,11 +896,11 @@ Las jornadas deben consultarse junto con la guía y el proyecto.
 
 - [Preparación del curso](preparacion.md).
 - [Programa completo](programa.md).
-- [Día 1: Fundamentos](../dia-01-fundamentos/index.md).
-- [Día 2: Técnicas y formatos](../dia-02-tecnicas/index.md).
-- [Día 3: Evaluación y seguridad](../dia-03-evaluacion-y-seguridad/index.md).
-- [Día 4: Aplicaciones profesionales](../dia-04-aplicaciones/index.md).
-- [Día 5: Proyecto e integración](../dia-05-proyecto/index.md).
+- [1: Fundamentos](../dia-01-fundamentos/index.md).
+- [2: Técnicas y formatos](../dia-02-tecnicas/index.md).
+- [3: Evaluación y seguridad](../dia-03-evaluacion-y-seguridad/index.md).
+- [4: Aplicaciones profesionales](../dia-04-aplicaciones/index.md).
+- [5: Proyecto e integración](../dia-05-proyecto/index.md).
 - [Proyecto final](../proyecto-final/index.md).
 
 ### 12.5. Síntesis del recorrido

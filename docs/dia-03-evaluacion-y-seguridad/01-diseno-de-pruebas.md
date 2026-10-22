@@ -8,7 +8,7 @@ Necesitamos saber qué requisitos estamos evaluando, qué resultados aceptaríam
 
 También necesitamos conservar evidencia suficiente para revisar nuestras conclusiones.
 
-Esta unidad inicia el trabajo de evaluación del tercer día del curso.
+Esta unidad inicia el trabajo de evaluación del tercer del curso.
 
 Utilizarás una entrada de tu biblioteca de prompts como objeto de prueba.
 
@@ -38,11 +38,11 @@ La finalidad es pasar de impresiones generales a comprobaciones relacionadas con
 
 ### 1.1. Ficha de la unidad
 
-La unidad pertenece al tercer día del curso.
+La unidad pertenece al tercer del curso.
 
 | Elemento | Descripción |
 |---|---|
-| Jornada | Día 3 · Evaluación y seguridad |
+| Jornada | 3 · Evaluación y seguridad |
 | Unidad | Diseño de pruebas |
 | Duración lectiva | 1,5 horas |
 | Modalidad | Explicación, demostración y práctica |

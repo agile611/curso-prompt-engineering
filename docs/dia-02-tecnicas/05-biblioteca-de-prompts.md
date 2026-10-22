@@ -40,7 +40,7 @@ La unidad integra el trabajo del segundo día.
 
 | Elemento | Descripción |
 |---|---|
-| Jornada | Día 2 · Técnicas y formatos |
+| Jornada | 2 · Técnicas y formatos |
 | Unidad | Biblioteca de prompts |
 | Duración lectiva | 0,5 horas |
 | Modalidad | Explicación, demostración y práctica |
@@ -48,7 +48,7 @@ La unidad integra el trabajo del segundo día.
 
 Se requiere disponer de prompts elaborados anteriormente.
 
-Pueden proceder del día 1 o del día 2.
+Pueden proceder del 1 o del 2.
 
 No se requiere programación.
 

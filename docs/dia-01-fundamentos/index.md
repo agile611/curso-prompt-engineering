@@ -1,4 +1,4 @@
-# Día 1 · Fundamentos y anatomía de un buen prompt
+# 1 · Fundamentos y anatomía de un buen prompt
 
 La primera jornada del curso introduce las posibilidades y limitaciones de los modelos de lenguaje y establece una metodología para redactar instrucciones claras, pertinentes y verificables.
 
@@ -18,7 +18,7 @@ Los contenidos están organizados para un nivel introductorio.
 
 | Elemento | Descripción |
 |---|---|
-| Jornada | Día 1 · Fundamentos |
+| Jornada | 1 · Fundamentos |
 | Duración lectiva | 6 horas |
 | Nivel | Introducción |
 | Conocimientos previos | Familiaridad básica con una interfaz de LLM |
@@ -320,15 +320,15 @@ Las plantillas organizan el trabajo, pero necesitan adaptarse a cada tarea.
 
 ### 5.4. Relación con las siguientes jornadas
 
-Los fundamentos del día 1 se ampliarán progresivamente.
+Los fundamentos del 1 se ampliarán progresivamente.
 
 | Jornada | Enfoque |
 |---|---|
-| Día 1 | Fundamentos y anatomía del prompt |
-| Día 2 | Técnicas y formatos |
-| Día 3 | Evaluación y seguridad |
-| Día 4 | Aplicaciones |
-| Día 5 | Proyecto e integración |
+| 1 | Fundamentos y anatomía del prompt |
+| 2 | Técnicas y formatos |
+| 3 | Evaluación y seguridad |
+| 4 | Aplicaciones |
+| 5 | Proyecto e integración |
 
 La plantilla, los prompts y el caso de uso podrán cambiar conforme aparezcan nuevos requisitos y evidencias.
 

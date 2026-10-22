@@ -1,4 +1,4 @@
-# Día 3 · Evaluación, mejora y uso responsable
+# 3 · Evaluación, mejora y uso responsable
 
 La tercera jornada transforma los prompts elaborados durante el curso en diseños que pueden comprobarse, mejorarse y utilizarse bajo condiciones explícitas.
 
@@ -47,7 +47,7 @@ La jornada está dirigida a participantes con conocimientos introductorios de Pr
 
 | Elemento | Descripción |
 |---|---|
-| Jornada | Día 3 · Evaluación, mejora y uso responsable |
+| Jornada | 3 · Evaluación, mejora y uso responsable |
 | Duración lectiva | 6 horas |
 | Modalidad | Explicación, demostración y práctica |
 | Requisitos previos | Caso de uso y biblioteca inicial |
@@ -65,11 +65,11 @@ El método debe adaptarse sin inventar capacidades.
 
 ### 1.2. Relación con los días anteriores
 
-El día 1 estableció la necesidad, la tarea y el alcance.
+El 1 estableció la necesidad, la tarea y el alcance.
 
-El día 2 desarrolló técnicas y una biblioteca inicial.
+El 2 desarrolló técnicas y una biblioteca inicial.
 
-El día 3 utiliza esos resultados como objetos de evaluación.
+El 3 utiliza esos resultados como objetos de evaluación.
 
 Recupera:
 
@@ -497,7 +497,7 @@ Una modificación más extensa no garantiza mejora.
 
 El entregable exige revisar el conjunto, no modificar todas las entradas por obligación.
 
-Para cada una de las cinco entradas del día 2, registra una decisión.
+Para cada una de las cinco entradas del 2, registra una decisión.
 
 Puede ser:
 
@@ -1099,7 +1099,7 @@ Después:
 
 ## 4. Entregables, decisiones y transferencia al proyecto
 
-Esta sección convierte el trabajo del día en documentación utilizable.
+Esta sección convierte el trabajo del en documentación utilizable.
 
 La evaluación debe terminar con condiciones de uso y pruebas pendientes.
 

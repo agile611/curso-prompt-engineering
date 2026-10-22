@@ -20,7 +20,7 @@ Esta página es el índice general del curso.
 
 Presenta el recorrido de aprendizaje, explica cómo utilizar los materiales y propone sesiones para acompañar el trabajo del alumnado.
 
-Las páginas de cada día desarrollan las actividades y los contenidos específicos.
+Las páginas de cada desarrollan las actividades y los contenidos específicos.
 
 Los ejemplos de este índice son originales y utilizan información sintética.
 
@@ -77,9 +77,9 @@ Empieza por comprender el recorrido antes de seleccionar técnicas o herramienta
 
 ### 1.2. Navegación diaria
 
-Cada día tiene una página de entrada que reúne su contenido específico.
+Cada tiene una página de entrada que reúne su contenido específico.
 
-- Abre el índice del día correspondiente.
+- Abre el índice del correspondiente.
 - Localiza el laboratorio que vas a realizar.
 - Comprueba qué materiales debes conservar.
 
@@ -95,7 +95,7 @@ Las plantillas y los recursos se utilizan durante todo el curso.
 
 El índice también permite recuperar métodos después del curso.
 
-- Vuelve al día relacionado con tu necesidad.
+- Vuelve al relacionado con tu necesidad.
 - Revisa las condiciones del ejemplo.
 - Adapta el procedimiento y vuelve a evaluarlo.
 
@@ -109,7 +109,7 @@ El recorrido avanza desde la formulación de tareas hasta la integración y pres
 
 El inicio se centra en comprender el modelo y delimitar el trabajo.
 
-- [Día 1: Fundamentos](dia-01-fundamentos/index.md).
+- [1: Fundamentos](dia-01-fundamentos/index.md).
 - Diferencia entre instrucción, fuente y resultado.
 - Preparación de una primera línea base.
 
@@ -117,16 +117,16 @@ El inicio se centra en comprender el modelo y delimitar el trabajo.
 
 El tramo intermedio desarrolla estrategias y procedimientos de comprobación.
 
-- [Día 2: Técnicas y formatos](dia-02-tecnicas/index.md).
-- [Día 3: Evaluación y seguridad](dia-03-evaluacion-y-seguridad/index.md).
+- [2: Técnicas y formatos](dia-02-tecnicas/index.md).
+- [3: Evaluación y seguridad](dia-03-evaluacion-y-seguridad/index.md).
 - Comparación de versiones con criterios explícitos.
 
 ### 2.3. Aplicación e integración
 
 El tramo final conecta componentes y prepara una entrega consultable.
 
-- [Día 4: Aplicaciones profesionales](dia-04-aplicaciones/index.md).
-- [Día 5: Proyecto e integración](dia-05-proyecto/index.md).
+- [4: Aplicaciones profesionales](dia-04-aplicaciones/index.md).
+- [5: Proyecto e integración](dia-05-proyecto/index.md).
 - Documentación del uso, los límites y la decisión final.
 
 ### 2.4. Recursos de apoyo
@@ -329,13 +329,13 @@ La decisión debe responder a lo observado.
 
 ---
 
-## 8. Día 1 · Fundamentos
+## 8. 1 · Fundamentos
 
-El primer día desarrolla una comprensión práctica de los modelos y prepara el inicio del proyecto.
+El primer desarrolla una comprensión práctica de los modelos y prepara el inicio del proyecto.
 
 ### 8.1. Acceso y objetivos
 
-Consulta [Día 1: Fundamentos](dia-01-fundamentos/index.md) para el desarrollo completo.
+Consulta [1: Fundamentos](dia-01-fundamentos/index.md) para el desarrollo completo.
 
 - Comprender LLM, prompt, token y contexto.
 - Distinguir generación y verificación.
@@ -367,13 +367,13 @@ El cierre deja una línea base que pueda retomarse.
 
 ---
 
-## 9. Día 2 · Técnicas y formatos
+## 9. 2 · Técnicas y formatos
 
-El segundo día desarrolla estrategias de formulación y contratos de salida.
+El segundo desarrolla estrategias de formulación y contratos de salida.
 
 ### 9.1. Acceso y objetivos
 
-Consulta [Día 2: Técnicas y formatos](dia-02-tecnicas/index.md) para las actividades específicas.
+Consulta [2: Técnicas y formatos](dia-02-tecnicas/index.md) para las actividades específicas.
 
 - Utilizar instrucciones directas y ejemplos.
 - Seleccionar formatos según el uso posterior.
@@ -405,13 +405,13 @@ La documentación debe conservar tanto diseño como evolución.
 
 ---
 
-## 10. Día 3 · Evaluación y seguridad
+## 10. 3 · Evaluación y seguridad
 
-El tercer día organiza la batería de pruebas y revisa los controles del sistema.
+El tercer organiza la batería de pruebas y revisa los controles del sistema.
 
 ### 10.1. Acceso y objetivos
 
-Consulta [Día 3: Evaluación y seguridad](dia-03-evaluacion-y-seguridad/index.md).
+Consulta [3: Evaluación y seguridad](dia-03-evaluacion-y-seguridad/index.md).
 
 - Definir criterios de aceptación.
 - Comparar resultados de forma transparente.
@@ -443,13 +443,13 @@ El cierre debe hacer visibles resultados y pendientes.
 
 ---
 
-## 11. Día 4 · Aplicaciones profesionales
+## 11. 4 · Aplicaciones profesionales
 
-El cuarto día conecta operaciones y desarrolla una guía de utilización.
+El cuarto conecta operaciones y desarrolla una guía de utilización.
 
 ### 11.1. Acceso y objetivos
 
-Consulta [Día 4: Aplicaciones profesionales](dia-04-aplicaciones/index.md).
+Consulta [4: Aplicaciones profesionales](dia-04-aplicaciones/index.md).
 
 - Relacionar componentes con una necesidad.
 - Validar transiciones del flujo.
@@ -481,13 +481,13 @@ El conjunto debe reflejar el flujo realmente trabajado.
 
 ---
 
-## 12. Día 5 · Proyecto e integración
+## 12. 5 · Proyecto e integración
 
-El quinto día consolida la entrega y comunica una decisión respaldada.
+El quinto consolida la entrega y comunica una decisión respaldada.
 
 ### 12.1. Acceso y objetivos
 
-Consulta [Día 5: Proyecto e integración](dia-05-proyecto/index.md).
+Consulta [5: Proyecto e integración](dia-05-proyecto/index.md).
 
 - Revisar integridad del expediente.
 - Presentar pruebas y limitaciones.
@@ -641,11 +641,11 @@ Las actividades siguientes ilustran el recorrido y no sustituyen los laboratorio
 
 El inicio trabaja claridad y representación de información.
 
-- Día 1: extraer requisitos con una instrucción directa.
-- Día 2: representar ausencias mediante un contrato.
+- 1: extraer requisitos con una instrucción directa.
+- 2: representar ausencias mediante un contrato.
 - Comparar una versión inicial con una candidata.
 
-### 16.2. Actividades del día 3
+### 16.2. Actividades del 3
 
 La evaluación utiliza condiciones difíciles pero controladas.
 
@@ -653,7 +653,7 @@ La evaluación utiliza condiciones difíciles pero controladas.
 - Mantener una fecha expresamente no confirmada.
 - Ignorar una orden incrustada en una fuente sintética.
 
-### 16.3. Actividades del día 4
+### 16.3. Actividades del 4
 
 La integración conecta operaciones con puntos de revisión.
 
@@ -661,7 +661,7 @@ La integración conecta operaciones con puntos de revisión.
 - Redactar desde el registro aceptado.
 - Revisar cifras y compromisos antes del uso.
 
-### 16.4. Actividades del día 5
+### 16.4. Actividades del 5
 
 El cierre comprueba transferencia documental.
 
@@ -971,6 +971,6 @@ Comienza por la preparación y continúa con los fundamentos.
 
 - [Preparación del curso](guia-del-curso/preparacion.md).
 - [Programa completo](guia-del-curso/programa.md).
-- [Día 1: Fundamentos](dia-01-fundamentos/index.md).
+- [1: Fundamentos](dia-01-fundamentos/index.md).
 
 **Diseñar bien un prompt significa explicar la tarea; trabajar bien con él significa comprobar sus resultados, conservar la evidencia y utilizarla para decidir dentro de límites conocidos.**

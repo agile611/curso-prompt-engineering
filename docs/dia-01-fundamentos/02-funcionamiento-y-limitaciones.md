@@ -28,7 +28,7 @@ La unidad combina explicación conceptual, observación y experimentación.
 
 | Elemento | Descripción |
 |---|---|
-| Jornada | Día 1 · Fundamentos |
+| Jornada | 1 · Fundamentos |
 | Unidad | Funcionamiento y limitaciones |
 | Duración | 1 hora lectiva |
 | Nivel | Introducción conceptual |

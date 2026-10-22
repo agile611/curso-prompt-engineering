@@ -30,11 +30,11 @@ Esta preparación evita que el taller se convierta en una sucesión de respuesta
 
 ### 1.1. Ficha de la unidad
 
-La unidad pertenece al primer día del curso.
+La unidad pertenece al primer del curso.
 
 | Elemento | Descripción |
 |---|---|
-| Jornada | Día 1 · Fundamentos |
+| Jornada | 1 · Fundamentos |
 | Unidad | Taller de prompts |
 | Duración | 2 horas |
 | Modalidad | Explicación, demostración y práctica |
