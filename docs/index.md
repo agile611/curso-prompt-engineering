@@ -28,7 +28,7 @@ Las referencias docentes describen expectativas, no resultados obtenidos mediant
 
 **El aprendizaje se demuestra mediante instrucciones documentadas, pruebas conservadas y decisiones proporcionadas a la evidencia.**
 
-### 2.5. Prompt Engineering y Prompt Scripting
+### Prompt Engineering y Prompt Scripting
 
 El curso utiliza dos términos con significados distintos y complementarios.
 
