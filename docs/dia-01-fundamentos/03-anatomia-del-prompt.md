@@ -1052,7 +1052,7 @@ Redacta una respuesta breve al correo.
 
 Confirma que hemos recibido la solicitud.
 Repite los requisitos principales para validarlos.
-Indica que el y el aula siguen pendientes.
+Indica que el aula siguen pendientes.
 
 No prometas disponibilidad.
 No confirmes precios ni personas docentes.
